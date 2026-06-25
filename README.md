@@ -26,6 +26,11 @@
 | **Инструменты** | Jupyter Notebook, Apache Airflow, MS Excel |
 
 ---
+## 📂 Проекты
+
+**Все проекты доступны в моем репозитории [analytical_projects](https://github.com/Vladimir-Kruglyanskiy/analytical_projects)**
+
+---
 
 ## 📌 Контакты
 
