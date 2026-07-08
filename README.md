@@ -36,7 +36,7 @@
 ## 📌 Контакты
 
 - **Telegram:** [@Vova_Kru](https://t.me/Vova_Kru)
-- [Резюме](https://hh.ru/resume/a0cab650ff10be19850039ed1f48715841434b?hhtmFrom=applicant_profile) 
+- [Резюме](https://hh.ru/resume/a0cab650ff10be19850039ed1f48715841434b) 
 ---
 
 ## 📬 Статус
